@@ -1,0 +1,7 @@
+# Example foreman_influxdb config file
+# Copy to config/settings.plugins.d/foreman_influxdb.yaml
+:influxdb:
+  :hosts:
+    - localhost
+  :port: 8086
+  :create_database: true
