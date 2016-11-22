@@ -27,6 +27,8 @@ already. It can be created via
 
     influx -execute "CREATE DATABASE theforeman"
 
+[![Build Status](https://travis-ci.org/agx/foreman_influxdb.svg?branch=master)](https://travis-ci.org/agx/foreman_influxdb)
+
 ## Copyright
    
 Copyright (c) 2016 Guido Günther
